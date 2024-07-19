@@ -1,11 +1,11 @@
 # main links
 main:
-  - title: "Home"
+  - title: "Blog"
     url: https://avs-commits.github.io
-  - title: "About Me"
+  - title: "Bio"
     url: /about/
-  - title: "Publications"
-    url: /publications/
+  - title: "Research"
+    url: /research/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
