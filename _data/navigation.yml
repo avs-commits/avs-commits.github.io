@@ -2,7 +2,7 @@
 main:
   - title: "Blog"
     url: https://avs-commits.github.io
-  - title: "Bio"
+  - title: "About"
     url: /about/
   - title: "Research"
     url: /research/
