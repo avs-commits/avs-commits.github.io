@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "HI, I'm Alex V. Smith"
-subtitle: "Digital Transforamtion | ESG | Post M&A Integration
+subtitle: "Digital Transforamtion | ESG | Post M&A Integration"
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
