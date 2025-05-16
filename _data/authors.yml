@@ -1,0 +1,10 @@
+avs:
+  name        : "Alex V. Smith"
+  avatar      : "/assets/images/avatar.jpg"
+  bio         : "I write about tech, science, and new ventures."
+  location    : "Texas"
+  #email       : "you@example.com"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/avs-commits"
