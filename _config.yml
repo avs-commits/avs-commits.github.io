@@ -117,7 +117,7 @@ author:
   avatar           : /assets/images/avatar.jpg
   bio              : "I am an **amazing** person."
   location         : "Texas"
-  email            : "  "
+  email            :
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
